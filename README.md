@@ -1,20 +1,24 @@
-#snake_game
+#Sanke Game
 ==========
-A simple snake game to learn HTML5/CSS3
+A simple snake game to learn HTML5/CSS3 and Javascript
 
-##tasks
+##Challenges
 ========== 
+### Let's see how well you understand the code..
 
-- Change the color of the snake
-- Change the direction when snake first started
-- Change the length for the initial snake
-- Change the color of the canvas
+  - Change the color of the snake
+  - Change the color of the food
+  - Change the length of the starting snake
+  - Change the color of the canvas
+  - Display the score on the canvas
 
-##chanllenges
-==========
+### Now let's do some cool stuff...
 
-- Start with multiple foods
-- Start with multiple snakes 
-- Display scores on the canvas
+  - Change the starting direction of the snake
+  - Make the starting direction for the snake random
+  - When the snake hits the wall, make its head come out from the other
+    side of the wall
+
+
 
 
